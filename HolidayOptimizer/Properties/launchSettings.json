@@ -3,7 +3,7 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:53127",
+      "applicationUrl": "http://localhost:7010",
       "sslPort": 44320
     }
   },
@@ -22,7 +22,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:53128/"
+      "applicationUrl": "http://localhost:7010/"
     },
     "HolidayOptimizer": {
       "commandName": "Project",
